@@ -1,0 +1,355 @@
+2019-10-28 00:42:55,791 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          4.3.3
+  Buildtime        2019-10-11 15:26
+  Python version   3.7
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2019-10-28 00:43:16,682 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          4.3.3
+  Buildtime        2019-10-11 15:26
+  Python version   3.7
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2019-10-28 00:43:16,838 - WARNING : aiohttp could not be imported. Async example will not work
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\master degree\Pyxll\examples\asyncfunc.py", line 24, in <module>
+    import aiohttp
+  File "build/x86/py37/res/release/pyxll.py", line 5081, in __import_hook
+ModuleNotFoundError: No module named 'aiohttp'
+2019-10-28 00:43:17,166 - INFO : This product is licensed to 
+2019-10-28 00:43:17,166 - INFO : The license will expire on 2019-11-27 (30 days left)
+2019-10-28 00:48:55,787 - ERROR : std::exception
+2019-10-28 00:49:13,065 - ERROR : std::exception
+2019-10-28 00:49:13,810 - ERROR : std::exception
+2019-10-28 00:49:14,256 - ERROR : std::exception
+2019-10-28 00:49:45,116 - ERROR : std::exception
+2019-10-28 00:49:45,698 - ERROR : std::exception
+2019-10-28 00:49:45,918 - ERROR : std::exception
+2019-10-28 00:49:46,136 - ERROR : std::exception
+2019-10-28 00:49:46,324 - ERROR : std::exception
+2019-10-28 00:49:46,542 - ERROR : std::exception
+2019-10-28 00:50:19,583 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          4.3.3
+  Buildtime        2019-10-11 15:26
+  Python version   3.7
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2019-10-28 00:50:19,629 - WARNING : aiohttp could not be imported. Async example will not work
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\master degree\Pyxll\examples\asyncfunc.py", line 24, in <module>
+    import aiohttp
+  File "build/x86/py37/res/release/pyxll.py", line 5081, in __import_hook
+ModuleNotFoundError: No module named 'aiohttp'
+2019-10-28 00:50:19,692 - INFO : This product is licensed to 
+2019-10-28 00:50:19,692 - INFO : The license will expire on 2019-11-27 (30 days left)
+2019-10-28 00:51:41,230 - ERROR : std::exception
+2019-10-28 00:51:42,208 - ERROR : std::exception
+2019-10-28 00:52:09,520 - ERROR : std::exception
+2019-10-28 00:52:10,293 - ERROR : std::exception
+2019-10-28 00:52:10,496 - ERROR : std::exception
+2019-10-28 00:52:11,246 - ERROR : std::exception
+2019-10-28 00:52:11,730 - ERROR : std::exception
+2019-10-28 00:52:11,934 - ERROR : std::exception
+2019-10-28 00:52:13,582 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          4.3.3
+  Buildtime        2019-10-11 15:26
+  Python version   3.7
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2019-10-28 00:52:13,598 - WARNING : aiohttp could not be imported. Async example will not work
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\master degree\Pyxll\examples\asyncfunc.py", line 24, in <module>
+    import aiohttp
+  File "build/x86/py37/res/release/pyxll.py", line 5081, in __import_hook
+ModuleNotFoundError: No module named 'aiohttp'
+2019-10-28 00:52:13,613 - INFO : This product is licensed to 
+2019-10-28 00:52:13,613 - INFO : The license will expire on 2019-11-27 (30 days left)
+2019-10-28 00:52:22,601 - INFO : Error calling function revfactorial
+2019-10-28 00:52:22,601 - INFO : Traceback (most recent call last):
+2019-10-28 00:52:22,601 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 15, in revfactorial
+2019-10-28 00:52:22,602 - INFO :     return recurs(num)
+2019-10-28 00:52:22,602 - INFO : NameError: name 'num' is not defined
+2019-10-28 00:52:47,816 - INFO : Error calling function revfactorial
+2019-10-28 00:52:47,816 - INFO : Traceback (most recent call last):
+2019-10-28 00:52:47,816 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 15, in revfactorial
+2019-10-28 00:52:47,816 - INFO :     return recurs(num)
+2019-10-28 00:52:47,817 - INFO : NameError: name 'num' is not defined
+2019-10-28 00:53:47,311 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          4.3.3
+  Buildtime        2019-10-11 15:26
+  Python version   3.7
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2019-10-28 00:53:47,311 - WARNING : aiohttp could not be imported. Async example will not work
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\master degree\Pyxll\examples\asyncfunc.py", line 24, in <module>
+    import aiohttp
+  File "build/x86/py37/res/release/pyxll.py", line 5081, in __import_hook
+ModuleNotFoundError: No module named 'aiohttp'
+2019-10-28 00:53:47,327 - INFO : This product is licensed to 
+2019-10-28 00:53:47,327 - INFO : The license will expire on 2019-11-27 (30 days left)
+2019-10-28 00:53:52,748 - INFO : Error calling function revfactorial
+2019-10-28 00:53:52,748 - INFO : Traceback (most recent call last):
+2019-10-28 00:53:52,748 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 15, in revfactorial
+2019-10-28 00:53:52,749 - INFO :     return recurs(fact)
+2019-10-28 00:53:52,749 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 10, in recurs
+2019-10-28 00:53:52,749 - INFO :     return num/recurs(num-1)
+2019-10-28 00:53:52,749 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 10, in recurs
+2019-10-28 00:53:52,750 - INFO :     return num/recurs(num-1)
+2019-10-28 00:53:52,750 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 10, in recurs
+2019-10-28 00:53:52,750 - INFO :     return num/recurs(num-1)
+2019-10-28 00:53:52,750 - INFO :   [Previous line repeated 995 more times]
+2019-10-28 00:53:52,750 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 8, in recurs
+2019-10-28 00:53:52,750 - INFO :     if num == 1:
+2019-10-28 00:53:52,750 - INFO : RecursionError: maximum recursion depth exceeded in comparison
+2019-10-28 00:53:56,556 - INFO : Error calling function revfactorial
+2019-10-28 00:53:56,556 - INFO : Traceback (most recent call last):
+2019-10-28 00:53:56,556 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 15, in revfactorial
+2019-10-28 00:53:56,556 - INFO :     return recurs(fact)
+2019-10-28 00:53:56,556 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 10, in recurs
+2019-10-28 00:53:56,556 - INFO :     return num/recurs(num-1)
+2019-10-28 00:53:56,556 - INFO : TypeError: unsupported operand type(s) for -: 'NoneType' and 'int'
+2019-10-28 00:53:56,556 - INFO : Error calling function revfactorial
+2019-10-28 00:53:56,556 - INFO : Traceback (most recent call last):
+2019-10-28 00:53:56,556 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 15, in revfactorial
+2019-10-28 00:53:56,556 - INFO :     return recurs(fact)
+2019-10-28 00:53:56,556 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 10, in recurs
+2019-10-28 00:53:56,556 - INFO :     return num/recurs(num-1)
+2019-10-28 00:53:56,556 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 10, in recurs
+2019-10-28 00:53:56,556 - INFO :     return num/recurs(num-1)
+2019-10-28 00:53:56,556 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 10, in recurs
+2019-10-28 00:53:56,556 - INFO :     return num/recurs(num-1)
+2019-10-28 00:53:56,556 - INFO :   [Previous line repeated 995 more times]
+2019-10-28 00:53:56,556 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 8, in recurs
+2019-10-28 00:53:56,556 - INFO :     if num == 1:
+2019-10-28 00:53:56,556 - INFO : RecursionError: maximum recursion depth exceeded in comparison
+2019-10-28 00:53:56,556 - INFO : Error calling function revfactorial
+2019-10-28 00:53:56,556 - INFO : Traceback (most recent call last):
+2019-10-28 00:53:56,556 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 15, in revfactorial
+2019-10-28 00:53:56,556 - INFO :     return recurs(fact)
+2019-10-28 00:53:56,556 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 10, in recurs
+2019-10-28 00:53:56,556 - INFO :     return num/recurs(num-1)
+2019-10-28 00:53:56,556 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 10, in recurs
+2019-10-28 00:53:56,556 - INFO :     return num/recurs(num-1)
+2019-10-28 00:53:56,556 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 10, in recurs
+2019-10-28 00:53:56,556 - INFO :     return num/recurs(num-1)
+2019-10-28 00:53:56,556 - INFO :   [Previous line repeated 995 more times]
+2019-10-28 00:53:56,556 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 8, in recurs
+2019-10-28 00:53:56,556 - INFO :     if num == 1:
+2019-10-28 00:53:56,556 - INFO : RecursionError: maximum recursion depth exceeded in comparison
+2019-10-28 00:53:56,571 - INFO : Error calling function revfactorial
+2019-10-28 00:53:56,571 - INFO : Traceback (most recent call last):
+2019-10-28 00:53:56,571 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 15, in revfactorial
+2019-10-28 00:53:56,571 - INFO :     return recurs(fact)
+2019-10-28 00:53:56,571 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 10, in recurs
+2019-10-28 00:53:56,571 - INFO :     return num/recurs(num-1)
+2019-10-28 00:53:56,571 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 10, in recurs
+2019-10-28 00:53:56,571 - INFO :     return num/recurs(num-1)
+2019-10-28 00:53:56,571 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 10, in recurs
+2019-10-28 00:53:56,571 - INFO :     return num/recurs(num-1)
+2019-10-28 00:53:56,571 - INFO :   [Previous line repeated 995 more times]
+2019-10-28 00:53:56,571 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 8, in recurs
+2019-10-28 00:53:56,571 - INFO :     if num == 1:
+2019-10-28 00:53:56,571 - INFO : RecursionError: maximum recursion depth exceeded in comparison
+2019-10-28 00:56:26,864 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          4.3.3
+  Buildtime        2019-10-11 15:26
+  Python version   3.7
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2019-10-28 00:56:26,877 - WARNING : aiohttp could not be imported. Async example will not work
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\master degree\Pyxll\examples\asyncfunc.py", line 24, in <module>
+    import aiohttp
+  File "build/x86/py37/res/release/pyxll.py", line 5081, in __import_hook
+ModuleNotFoundError: No module named 'aiohttp'
+2019-10-28 00:56:26,894 - INFO : This product is licensed to 
+2019-10-28 00:56:26,894 - INFO : The license will expire on 2019-11-27 (30 days left)
+2019-10-28 01:02:26,748 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          4.3.3
+  Buildtime        2019-10-11 15:26
+  Python version   3.7
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2019-10-28 01:02:30,147 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          4.3.3
+  Buildtime        2019-10-11 15:26
+  Python version   3.7
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2019-10-28 01:02:30,256 - WARNING : aiohttp could not be imported. Async example will not work
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\master degree\Pyxll\examples\asyncfunc.py", line 24, in <module>
+    import aiohttp
+  File "build/x86/py37/res/release/pyxll.py", line 5081, in __import_hook
+ModuleNotFoundError: No module named 'aiohttp'
+2019-10-28 01:02:30,303 - INFO : This product is licensed to 
+2019-10-28 01:02:30,303 - INFO : The license will expire on 2019-11-27 (30 days left)
+2019-10-28 01:08:20,729 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          4.3.3
+  Buildtime        2019-10-11 15:26
+  Python version   3.7
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2019-10-28 01:08:20,744 - WARNING : aiohttp could not be imported. Async example will not work
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\master degree\Pyxll\examples\asyncfunc.py", line 24, in <module>
+    import aiohttp
+  File "build/x86/py37/res/release/pyxll.py", line 5081, in __import_hook
+ModuleNotFoundError: No module named 'aiohttp'
+2019-10-28 01:08:20,760 - INFO : This product is licensed to 
+2019-10-28 01:08:20,760 - INFO : The license will expire on 2019-11-27 (30 days left)
+2019-10-28 01:08:22,936 - INFO : Error calling function revfactorial
+2019-10-28 01:08:22,936 - INFO : Traceback (most recent call last):
+2019-10-28 01:08:22,936 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 11, in revfactorial
+2019-10-28 01:08:22,937 - INFO :     resul +=1
+2019-10-28 01:08:22,937 - INFO : UnboundLocalError: local variable 'resul' referenced before assignment
+2019-10-28 01:08:22,938 - INFO : Error calling function revfactorial
+2019-10-28 01:08:22,938 - INFO : Traceback (most recent call last):
+2019-10-28 01:08:22,938 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 11, in revfactorial
+2019-10-28 01:08:22,938 - INFO :     resul +=1
+2019-10-28 01:08:22,939 - INFO : UnboundLocalError: local variable 'resul' referenced before assignment
+2019-10-28 01:08:22,939 - INFO : Error calling function revfactorial
+2019-10-28 01:08:22,939 - INFO : Traceback (most recent call last):
+2019-10-28 01:08:22,940 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 11, in revfactorial
+2019-10-28 01:08:22,940 - INFO :     resul +=1
+2019-10-28 01:08:22,940 - INFO : UnboundLocalError: local variable 'resul' referenced before assignment
+2019-10-28 01:08:22,940 - INFO : Error calling function revfactorial
+2019-10-28 01:08:22,940 - INFO : Traceback (most recent call last):
+2019-10-28 01:08:22,941 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 11, in revfactorial
+2019-10-28 01:08:22,941 - INFO :     resul +=1
+2019-10-28 01:08:22,941 - INFO : UnboundLocalError: local variable 'resul' referenced before assignment
+2019-10-28 01:08:22,941 - INFO : Error calling function revfactorial
+2019-10-28 01:08:22,941 - INFO : Traceback (most recent call last):
+2019-10-28 01:08:22,941 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 11, in revfactorial
+2019-10-28 01:08:22,941 - INFO :     resul +=1
+2019-10-28 01:08:22,942 - INFO : UnboundLocalError: local variable 'resul' referenced before assignment
+2019-10-28 01:08:22,942 - INFO : Error calling function revfactorial
+2019-10-28 01:08:22,942 - INFO : Traceback (most recent call last):
+2019-10-28 01:08:22,942 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 11, in revfactorial
+2019-10-28 01:08:22,942 - INFO :     resul +=1
+2019-10-28 01:08:22,942 - INFO : UnboundLocalError: local variable 'resul' referenced before assignment
+2019-10-28 01:08:22,942 - INFO : Error calling function revfactorial
+2019-10-28 01:08:22,942 - INFO : Traceback (most recent call last):
+2019-10-28 01:08:22,943 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 11, in revfactorial
+2019-10-28 01:08:22,943 - INFO :     resul +=1
+2019-10-28 01:08:22,943 - INFO : UnboundLocalError: local variable 'resul' referenced before assignment
+2019-10-28 01:08:30,927 - INFO : Error calling function revfactorial
+2019-10-28 01:08:30,927 - INFO : Traceback (most recent call last):
+2019-10-28 01:08:30,927 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 11, in revfactorial
+2019-10-28 01:08:30,927 - INFO :     resul +=1
+2019-10-28 01:08:30,927 - INFO : UnboundLocalError: local variable 'resul' referenced before assignment
+2019-10-28 01:08:30,927 - INFO : Error calling function revfactorial
+2019-10-28 01:08:30,927 - INFO : Traceback (most recent call last):
+2019-10-28 01:08:30,927 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 11, in revfactorial
+2019-10-28 01:08:30,927 - INFO :     resul +=1
+2019-10-28 01:08:30,927 - INFO : UnboundLocalError: local variable 'resul' referenced before assignment
+2019-10-28 01:08:30,927 - INFO : Error calling function revfactorial
+2019-10-28 01:08:30,927 - INFO : Traceback (most recent call last):
+2019-10-28 01:08:30,927 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 11, in revfactorial
+2019-10-28 01:08:30,927 - INFO :     resul +=1
+2019-10-28 01:08:30,927 - INFO : UnboundLocalError: local variable 'resul' referenced before assignment
+2019-10-28 01:08:30,927 - INFO : Error calling function revfactorial
+2019-10-28 01:08:30,927 - INFO : Traceback (most recent call last):
+2019-10-28 01:08:30,927 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 11, in revfactorial
+2019-10-28 01:08:30,927 - INFO :     resul +=1
+2019-10-28 01:08:30,927 - INFO : UnboundLocalError: local variable 'resul' referenced before assignment
+2019-10-28 01:08:30,927 - INFO : Error calling function revfactorial
+2019-10-28 01:08:30,927 - INFO : Traceback (most recent call last):
+2019-10-28 01:08:30,927 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 11, in revfactorial
+2019-10-28 01:08:30,927 - INFO :     resul +=1
+2019-10-28 01:08:30,927 - INFO : UnboundLocalError: local variable 'resul' referenced before assignment
+2019-10-28 01:08:30,927 - INFO : Error calling function revfactorial
+2019-10-28 01:08:30,927 - INFO : Traceback (most recent call last):
+2019-10-28 01:08:30,927 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 11, in revfactorial
+2019-10-28 01:08:30,927 - INFO :     resul +=1
+2019-10-28 01:08:30,927 - INFO : UnboundLocalError: local variable 'resul' referenced before assignment
+2019-10-28 01:08:30,927 - INFO : Error calling function revfactorial
+2019-10-28 01:08:30,927 - INFO : Traceback (most recent call last):
+2019-10-28 01:08:30,927 - INFO :   File "C:\Users\User\Documents\master degree\Pyxll\examples\salam.py", line 11, in revfactorial
+2019-10-28 01:08:30,927 - INFO :     resul +=1
+2019-10-28 01:08:30,927 - INFO : UnboundLocalError: local variable 'resul' referenced before assignment
+2019-10-28 01:08:54,027 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          4.3.3
+  Buildtime        2019-10-11 15:26
+  Python version   3.7
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2019-10-28 01:08:54,042 - WARNING : aiohttp could not be imported. Async example will not work
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\master degree\Pyxll\examples\asyncfunc.py", line 24, in <module>
+    import aiohttp
+  File "build/x86/py37/res/release/pyxll.py", line 5081, in __import_hook
+ModuleNotFoundError: No module named 'aiohttp'
+2019-10-28 01:08:54,058 - INFO : This product is licensed to 
+2019-10-28 01:08:54,058 - INFO : The license will expire on 2019-11-27 (30 days left)
+2019-10-28 01:11:51,599 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          4.3.3
+  Buildtime        2019-10-11 15:26
+  Python version   3.7
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2019-10-28 01:11:51,614 - WARNING : aiohttp could not be imported. Async example will not work
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\master degree\Pyxll\examples\asyncfunc.py", line 24, in <module>
+    import aiohttp
+  File "build/x86/py37/res/release/pyxll.py", line 5081, in __import_hook
+ModuleNotFoundError: No module named 'aiohttp'
+2019-10-28 01:11:51,630 - INFO : This product is licensed to 
+2019-10-28 01:11:51,630 - INFO : The license will expire on 2019-11-27 (30 days left)
+2019-10-28 01:18:43,885 - INFO : callbacks.on_close: PyXLL is closing
